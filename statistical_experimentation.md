@@ -8,7 +8,7 @@ format:
     toc-depth: 3
     number-sections: true
     code-fold: true
-editor: visual
+editor: source
 ---
 
 # Introduction
@@ -172,6 +172,6 @@ interaction.plot(mtcars$cyl, mtcars$am, mtcars$mpg,
 
 ### **Render Your Notebook**
 Run the following command in your terminal:
-```
+```bash
 quarto render statistical-experimentation.qmd
 ```
