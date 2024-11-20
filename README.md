@@ -128,7 +128,7 @@ If you have suggestions for improvements or additional statistical methods you w
 
 For further inquiries, please contact:
 - **Elisha Veriwa**  
-  Email: [everiwa@gmail.com().
+  Email: [everiwa@gmail.com]().
   LinkedIn: []().
 
 ---
