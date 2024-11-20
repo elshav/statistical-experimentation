@@ -11,7 +11,7 @@ This project demonstrates statistical experimentation using R's built-in dataset
 - Data visualization
 - Statistical methodologies
 
-This project aims to help students and practitioners in statistics as it did for me, as far as understand the **why** behind various experimental design decisions, statistical test choices, and visualization techniques is concerned. The project got [**inspiration**: from a DataCamp course I have just completed.
+This project aims to help students and practitioners in statistics as it did for me, as far as understand the **why** behind various experimental design decisions, statistical test choices, and visualization techniques is concerned. The project drew [**inspiration**](): from a DataCamp course I have just completed.
 
 ---
 
